@@ -11,7 +11,7 @@ const ProductReviews = lazy(() => import('./reviews/reviewsIndex'));
 function App () {
   const [overviewLoaded, setOverviewLoaded] = useState(false);
   const [items, setItems] = useState(0);
-  const productId = 25171;
+  const productId = 25178;
 
   function loadNextComponents(val) {
     setOverviewLoaded(val);

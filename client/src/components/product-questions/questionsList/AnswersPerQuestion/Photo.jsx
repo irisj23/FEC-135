@@ -6,13 +6,13 @@ const Image = styled.img`
   height: 120px;
   padding-right: 8px;
   padding-top: 5px;
+  cursor: pointer;
 `
 
 const ModalImage = styled.img`
   width: 540px;
   padding-right: 8px;
   padding-top: 5px;
-
 `
 
 const Photo = ({ photo }) => {
