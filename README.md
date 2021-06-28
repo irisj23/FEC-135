@@ -5,7 +5,7 @@ TBD
 ## Description
 
 This project is a front end redesign of an online clothing retailer's website.
-<img src="/Users/devbook/HackReactor/FEC/FEC-135/ezgif.com-gif-maker.gif" width="500" height="600">
+<img src="./ezgif.com-gif-maker.gif" width="500" height="600">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
