@@ -16,7 +16,7 @@ const ProgContainer = styled.div`
   progress[value]::-webkit-progress-value {
     height: .5em;
     border-radius: 10px;
-    background-color: green;
+    background-color: black;
   }
   `;
 
