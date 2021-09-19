@@ -1,9 +1,9 @@
-# Forecer 31
+# Forever 31
 
 ## Description
 
 This project is a front end redesign of an online clothing retailer's website.
-<img src="./overview.gif" width="550" height="400">
+<img src="./overview.gif" width="650" height="600">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
