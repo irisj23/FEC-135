@@ -1,8 +1,20 @@
 # Forever 31
 
-This project is a front end redesign of an online clothing retailer's website.
+Front end design of an online clothing retailer's website
 
 <img src="./overview.gif" width="800" height="550">
+
+## Product Details
+<img src="./productDetails.gif" width="800" height="550">
+
+## Questions & Answers
+<img src="./qa1.gif" width="800" height="450">
+
+<img src="./qa2.gif" width="800" height="450">
+
+## Product Reviews
+<img src="./reviews.gif" width="800" height="550">
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
