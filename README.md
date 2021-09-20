@@ -1,19 +1,32 @@
-# Forever 31
+<h1 align="center">Forever 31 </h1>
 
-Front end design of an online clothing retailer's website
 
+<p align="center"> 
 <img src="./overview.gif" width="800" height="550">
+</p>
 
-## Product Details
+
+<h3 align="center">Product Details</h3>
+
+<p align="center"> 
 <img src="./productDetails.gif" width="800" height="550">
+</p>
 
-## Questions & Answers
+<h3 align="center">Questions & Answers</h3>
+
+<p align="center"> 
 <img src="./qa1.gif" width="800" height="450">
+</p>
 
+<p align="center"> 
 <img src="./qa2.gif" width="800" height="450">
+</p>
 
-## Product Reviews
+<h3 align="center">Product Reviews</h3>
+
+<p align="center"> 
 <img src="./reviews.gif" width="800" height="550">
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -39,10 +52,6 @@ Front end design of an online clothing retailer's website
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installation
 
@@ -66,9 +75,10 @@ command to run if program contains helper info
 
 ## Authors
 
-Sean Claybaugh<br>
 Iris Jiang<br>
-Elizabeth Phung
+Elizabeth Phung<br>
+Sean Claybaugh<br>
+
 
 ## Version History
 
@@ -78,9 +88,6 @@ Elizabeth Phung
 * 0.1
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
